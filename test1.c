@@ -14,5 +14,4 @@ int main(void){
 	_syscall(PM_PROC_NR,SEMA_WAIT,&m);
 	
 //	_syscall(PM_PROC_NR,SEMA_SIGNAL,&m1);
-
-	}
+}
